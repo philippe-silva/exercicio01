@@ -5,6 +5,7 @@ Letra A:
     echo 1 > arquivo.txt
     cat arquivo.txt
     2
+    
 Letra B:
     git add arquivo.txt
     git status
